@@ -1,0 +1,27 @@
+{
+  "name":"bitsplz",
+  "authors": [
+    {
+      "name": "Sarah Elkhart",
+      "email": "selkhart@mail.greenriver.edu"
+    },
+    {
+      "name": "Mingjie Deng",
+      "email": "mdeng@mail.greenriver.edu"
+    },
+    {
+      "name": "Jacob Landowski",
+      "email": "jlandowski@mail.greenriver.edu"
+    },
+    {
+      "name": "Zachary Rosenlund",
+      "email": "zrosenlund@mail.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  },
+  "autoload": {
+    "classmap":["model/"]
+  }
+}
